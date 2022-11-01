@@ -6,3 +6,13 @@ Model Sources:
 2. ESPCN [Model](https://github.com/fannymonori/TF-ESPCN/tree/master/export) [Paper](https://arxiv.org/pdf/1609.05158.pdf)
 3. FSRCNN [Model](https://github.com/Saafke/FSRCNN_Tensorflow/tree/master/models) [Paper](https://arxiv.org/pdf/1608.00367.pdf)
 4. LapSRN [Model](https://github.com/fannymonori/TF-LapSRN/tree/master/export) [Paper](https://arxiv.org/pdf/1710.01992.pdf)
+
+Installation:
+```
+pip install opencv-contrib-python
+```
+or
+
+```
+conda install -c conda-forge opencv
+```
