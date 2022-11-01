@@ -16,4 +16,5 @@ or
 ```
 conda install -c conda-forge opencv
 conda install -c conda-forge jupyterlab
+conda install -c conda-forge matplotlib
 ```
